@@ -26,5 +26,5 @@ hello hhx! hello zjt!
 hello hhx! hello zjt! master commit
 hello hhx! hello zjt!
 hello hhx! hello zjt!
-hello hhx! hello zjt!
+hello hhx! hello zjt! hot-fix commit
 hello hhx! hello zjt!
